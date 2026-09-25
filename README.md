@@ -186,13 +186,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Apache License 2.0 - see [LICENSE](LICENSE) for details.
 
-## Citation
-
-```bibtex
-@software{llmeval_lab,
-  title = {LLMEval-Lab: Lightweight Multimodal Evaluation Laboratory},
-  author = {LLMEval Team},
-  year = {2024},
-  url = {https://github.com/ai-never/LLMEval-Lab}
-}
-```
